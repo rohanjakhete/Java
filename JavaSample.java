@@ -9,7 +9,7 @@ public class JavaSample
         String name = in.next(); 
         if (name.equalsIgnoreCase("Rohan"))
         {
-            print("He is not awesome"); 
+            print("He is awesome"); 
         }
     }
 }
